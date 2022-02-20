@@ -1,0 +1,3 @@
+writer.log
+__pycache__/
+*.py[cod]

@@ -1,0 +1,14 @@
+{    
+    "mqtt": {
+        "host": "predprofil-mqtt.minhinlocal",
+        "port": 1883,
+        "user": "",
+        "pass": ""
+    },
+    "InfluxDB": {
+        "token": "SZRqy2zk2c9BK_IPXsdxNgpq3OQRA3gQSQ3F8vkaksX-PyKGNlq5LfrbEkHh1pL1uPnXQmoVLX-hvr3ucekaGA==",
+        "url": "http://predprofil-influx.minhinlocal:8086",
+        "bucket": "homeassistant",
+        "org": "MinHinProm"
+    }
+}
